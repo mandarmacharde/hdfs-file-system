@@ -1,0 +1,394 @@
+{
+  "files": {
+    "123.txt": {
+      "blocks": [
+        "326ea89d-8625-4d74-87e9-2d95f9cf744c"
+      ],
+      "size": 1,
+      "created": 1758299806.539125,
+      "modified": 1758299806.539125
+    }
+  },
+  "blocks": {
+    "326ea89d-8625-4d74-87e9-2d95f9cf744c": [
+      "34497132-4b16-44d7-9ac6-89228d49e14b",
+      "639451e0-3b27-405a-a187-6591e21d94f6"
+    ]
+  },
+  "datanodes": {
+    "997dc6ef-58eb-4d18-9901-6eb681f75327": {
+      "host": "localhost",
+      "port": 5001,
+      "last_heartbeat": 1757786079.695128,
+      "status": "inactive"
+    },
+    "ead6e8f1-e544-40e9-a255-386d6c42e57c": {
+      "host": "localhost",
+      "port": 5001,
+      "last_heartbeat": 1757786438.315734,
+      "status": "inactive"
+    },
+    "3dd9cc8b-220e-4886-84ac-a53176615992": {
+      "host": "localhost",
+      "port": 5001,
+      "last_heartbeat": 1757825457.5674722,
+      "status": "inactive"
+    },
+    "ae106a33-7120-40dc-9669-fa8cfd643e71": {
+      "host": "localhost",
+      "port": 5002,
+      "last_heartbeat": 1757825460.089306,
+      "status": "inactive"
+    },
+    "712c77c6-74bf-4dd5-be3d-b6d37724b7b9": {
+      "host": "localhost",
+      "port": 5001,
+      "last_heartbeat": 1757826045.428208,
+      "status": "inactive"
+    },
+    "12f61444-fbf1-438d-8b24-2c41fd4b7d78": {
+      "host": "localhost",
+      "port": 5002,
+      "last_heartbeat": 1757826048.8684318,
+      "status": "inactive"
+    },
+    "aecea3e0-f3ba-4d99-bbbf-87d1e3b3138d": {
+      "host": "localhost",
+      "port": 5001,
+      "last_heartbeat": 1757953996.168611,
+      "status": "inactive"
+    },
+    "7339a7fe-4a01-4e76-973c-4be7536a4d19": {
+      "host": "localhost",
+      "port": 5002,
+      "last_heartbeat": 1757953996.975335,
+      "status": "inactive"
+    },
+    "effeebbb-b5a6-4505-b444-89c07b45c876": {
+      "host": "localhost",
+      "port": 5001,
+      "last_heartbeat": 1758207526.926398,
+      "status": "inactive"
+    },
+    "cb73672d-ee96-42c7-aa4f-294f2a82bdcb": {
+      "host": "localhost",
+      "port": 5002,
+      "last_heartbeat": 1758207526.9289112,
+      "status": "inactive"
+    },
+    "162de208-cb78-4f26-b596-0d0b067e0e0e": {
+      "host": "localhost",
+      "port": 5001,
+      "last_heartbeat": 1758209085.791063,
+      "status": "inactive"
+    },
+    "632d65af-7b62-47ee-b997-f6c3c0cb2dc6": {
+      "host": "localhost",
+      "port": 5002,
+      "last_heartbeat": 1758209089.894963,
+      "status": "inactive"
+    },
+    "a19ce9d8-e6ac-4e1d-b585-b86458ca3eac": {
+      "host": "localhost",
+      "port": 5001,
+      "last_heartbeat": 1758209179.817436,
+      "status": "inactive"
+    },
+    "b1a9c27d-c141-4fc3-b5d4-54b267dfe017": {
+      "host": "localhost",
+      "port": 5002,
+      "last_heartbeat": 1758209177.637764,
+      "status": "inactive"
+    },
+    "96a970db-2c9e-41c8-a1c8-f302d2a4604b": {
+      "host": "localhost",
+      "port": 5001,
+      "last_heartbeat": 1758209493.137959,
+      "status": "inactive"
+    },
+    "0b0f1531-ae7f-4ab9-ab7b-5b7e9f0bad6e": {
+      "host": "localhost",
+      "port": 5002,
+      "last_heartbeat": 1758209486.608293,
+      "status": "inactive"
+    },
+    "d715bb78-3eff-43af-91f0-4c6403a43996": {
+      "host": "localhost",
+      "port": 5001,
+      "last_heartbeat": 1758210235.390959,
+      "status": "inactive"
+    },
+    "55717001-b5c0-4a8e-9729-97ca8f491706": {
+      "host": "localhost",
+      "port": 5002,
+      "last_heartbeat": 1758210148.209106,
+      "status": "inactive"
+    },
+    "34e38fc2-d1d7-4c06-aded-322525383e51": {
+      "host": "localhost",
+      "port": 5002,
+      "last_heartbeat": 1758210236.278948,
+      "status": "inactive"
+    },
+    "a8b23ae8-4f14-4263-a9cb-ef46497dd0af": {
+      "host": "localhost",
+      "port": 5001,
+      "last_heartbeat": 1758212004.81736,
+      "status": "inactive"
+    },
+    "85ad9942-adf0-4ee6-8cc0-15724105a531": {
+      "host": "localhost",
+      "port": 5002,
+      "last_heartbeat": 1758212049.337939,
+      "status": "inactive"
+    },
+    "3f6d74bb-a725-4bda-80a1-002d6fe0aa01": {
+      "host": "localhost",
+      "port": 5001,
+      "last_heartbeat": 1758212163.2853,
+      "status": "inactive"
+    },
+    "3d90e25b-a5bd-40a0-be5f-c2a6bcac7fd8": {
+      "host": "localhost",
+      "port": 5002,
+      "last_heartbeat": 1758212159.5326889,
+      "status": "inactive"
+    },
+    "e1ef4047-ff95-4c2d-b614-a3eb5ae9ce5b": {
+      "host": "localhost",
+      "port": 5001,
+      "last_heartbeat": 1758213191.3766458,
+      "status": "inactive"
+    },
+    "fe5e075c-ea7d-4325-b151-c2ff7e67005d": {
+      "host": "localhost",
+      "port": 5002,
+      "last_heartbeat": 1758213194.4254348,
+      "status": "inactive"
+    },
+    "b2a94e2e-c172-4625-86d9-d7bff0b6642b": {
+      "host": "localhost",
+      "port": 5001,
+      "last_heartbeat": 1758213427.268845,
+      "status": "inactive"
+    },
+    "d5b7c396-c5a9-434e-9c5f-6c99d5e3a38a": {
+      "host": "localhost",
+      "port": 5002,
+      "last_heartbeat": 1758213421.142154,
+      "status": "inactive"
+    },
+    "e960594a-4cd1-4134-a48d-00d152ebceb9": {
+      "host": "localhost",
+      "port": 5001,
+      "last_heartbeat": 1758213439.076671,
+      "status": "inactive"
+    },
+    "46ad517e-7110-4a5c-9a8f-23fdb84e3cc8": {
+      "host": "localhost",
+      "port": 5002,
+      "last_heartbeat": 1758213442.43462,
+      "status": "inactive"
+    },
+    "639f01d6-531e-4abd-915c-d061448d6ec1": {
+      "host": "localhost",
+      "port": 5001,
+      "last_heartbeat": 1758213894.0427442,
+      "status": "inactive"
+    },
+    "6312b2ef-64f5-4b75-9977-76559100efe2": {
+      "host": "localhost",
+      "port": 5002,
+      "last_heartbeat": 1758213948.050915,
+      "status": "inactive"
+    },
+    "23ba854f-7733-4fa9-969e-1366ebe3f456": {
+      "host": "localhost",
+      "port": 5001,
+      "last_heartbeat": 1758214958.014561,
+      "status": "inactive"
+    },
+    "253cf5d9-a169-4a61-80dd-c28a7cf31059": {
+      "host": "localhost",
+      "port": 5002,
+      "last_heartbeat": 1758214955.527433,
+      "status": "inactive"
+    },
+    "933014e6-445c-4b08-abf6-bd170c81d22d": {
+      "host": "localhost",
+      "port": 5001,
+      "last_heartbeat": 1758215473.3203032,
+      "status": "inactive"
+    },
+    "dc57ca68-0276-4ea9-884b-0d55406b5b48": {
+      "host": "localhost",
+      "port": 5002,
+      "last_heartbeat": 1758215475.955598,
+      "status": "inactive"
+    },
+    "6675b042-0090-4836-961f-ed122ac6bd8a": {
+      "host": "localhost",
+      "port": 5001,
+      "last_heartbeat": 1758216596.289964,
+      "status": "inactive"
+    },
+    "10556cdc-14d5-47c4-a7fd-6879db11090f": {
+      "host": "localhost",
+      "port": 5002,
+      "last_heartbeat": 1758216658.1753721,
+      "status": "inactive"
+    },
+    "57502b6b-e1b0-4c7e-8b82-be65e1cd61e1": {
+      "host": "localhost",
+      "port": 5001,
+      "last_heartbeat": 1758216767.81312,
+      "status": "inactive"
+    },
+    "c01503f3-ab62-4d11-bf76-a95b1505fbe7": {
+      "host": "localhost",
+      "port": 5002,
+      "last_heartbeat": 1758216762.5787132,
+      "status": "inactive"
+    },
+    "e0395bb3-7028-40d4-b8ad-5fcde8ed1270": {
+      "host": "localhost",
+      "port": 5001,
+      "last_heartbeat": 1758289547.692825,
+      "status": "inactive"
+    },
+    "898147ad-94bf-4492-8081-8774b8ed50ec": {
+      "host": "localhost",
+      "port": 5002,
+      "last_heartbeat": 1758289484.840837,
+      "status": "inactive"
+    },
+    "7316c6df-b97b-4a81-9c2d-da9902ac6fb6": {
+      "host": "localhost",
+      "port": 5002,
+      "last_heartbeat": 1758290164.6414819,
+      "status": "inactive"
+    },
+    "96866917-2f43-4f5a-9f93-9bdc503590c3": {
+      "host": "localhost",
+      "port": 5001,
+      "last_heartbeat": 1758289720.000531,
+      "status": "inactive"
+    },
+    "68dd7229-2aa9-4439-99c4-736e059ab06d": {
+      "host": "localhost",
+      "port": 5001,
+      "last_heartbeat": 1758290208.1780171,
+      "status": "inactive"
+    },
+    "95773a1e-64bc-46fe-9eda-72ff3c2b96ae": {
+      "host": "localhost",
+      "port": 5001,
+      "last_heartbeat": 1758290376.4104152,
+      "status": "inactive"
+    },
+    "543b454a-8259-432a-bc98-012415191c78": {
+      "host": "localhost",
+      "port": 5002,
+      "last_heartbeat": 1758290379.0925372,
+      "status": "inactive"
+    },
+    "73369747-7d79-40cc-874c-04f24e977273": {
+      "host": "localhost",
+      "port": 5001,
+      "last_heartbeat": 1758290471.272197,
+      "status": "inactive"
+    },
+    "668e25bd-30b3-474a-9f2e-d044bd969fcb": {
+      "host": "localhost",
+      "port": 5002,
+      "last_heartbeat": 1758290805.951827,
+      "status": "inactive"
+    },
+    "6f3e04a6-6dbc-4116-9c22-8b4dffd15fcb": {
+      "host": "localhost",
+      "port": 5001,
+      "last_heartbeat": 1758290808.205903,
+      "status": "inactive"
+    },
+    "59237149-3702-4ec0-8b88-441587dc41af": {
+      "host": "localhost",
+      "port": 5001,
+      "last_heartbeat": 1758291230.920678,
+      "status": "inactive"
+    },
+    "88ac1646-5a05-4c57-8e06-357bb0850901": {
+      "host": "localhost",
+      "port": 5002,
+      "last_heartbeat": 1758291231.737948,
+      "status": "inactive"
+    },
+    "c952a6ee-070a-48e5-ba4e-7afae2881601": {
+      "host": "localhost",
+      "port": 5001,
+      "last_heartbeat": 1758293505.444245,
+      "status": "inactive"
+    },
+    "6c4257c0-3785-4765-a694-6e365eb14045": {
+      "host": "localhost",
+      "port": 5002,
+      "last_heartbeat": 1758291301.598298,
+      "status": "inactive"
+    },
+    "406b27be-d767-41f7-84dd-1d3a2a0e5bee": {
+      "host": "localhost",
+      "port": 5002,
+      "last_heartbeat": 1758293505.227786,
+      "status": "inactive"
+    },
+    "f33e7648-eff6-4e51-968f-13b99e770bf3": {
+      "host": "localhost",
+      "port": 5001,
+      "last_heartbeat": 1758294809.8277419,
+      "status": "inactive"
+    },
+    "52d05b85-cc03-4651-a2fe-4f5c2684ff00": {
+      "host": "localhost",
+      "port": 5002,
+      "last_heartbeat": 1758294811.2722182,
+      "status": "inactive"
+    },
+    "87ffe63e-aa1f-4e4e-a8e6-ed4b33dbb812": {
+      "host": "localhost",
+      "port": 5001,
+      "last_heartbeat": 1758299471.472009,
+      "status": "inactive"
+    },
+    "6506de24-4acf-43db-a064-7dd0f2424017": {
+      "host": "localhost",
+      "port": 5002,
+      "last_heartbeat": 1758299475.5442,
+      "status": "inactive"
+    },
+    "34497132-4b16-44d7-9ac6-89228d49e14b": {
+      "host": "localhost",
+      "port": 5001,
+      "last_heartbeat": 1758300061.78269,
+      "status": "inactive"
+    },
+    "639451e0-3b27-405a-a187-6591e21d94f6": {
+      "host": "localhost",
+      "port": 5002,
+      "last_heartbeat": 1758300065.105154,
+      "status": "inactive"
+    },
+    "59d266ea-060b-4d5e-bd09-84e216d5653d": {
+      "host": "localhost",
+      "port": 5001,
+      "last_heartbeat": 1758300518.2656698,
+      "status": "active"
+    },
+    "e00277cb-3cda-4c2e-ad27-81555c0656f1": {
+      "host": "localhost",
+      "port": 5002,
+      "last_heartbeat": 1758300521.965195,
+      "status": "active"
+    }
+  },
+  "total_uploads": 2,
+  "total_downloads": 1
+}

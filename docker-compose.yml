@@ -1,0 +1,80 @@
+version: '3.8'
+
+services:
+  namenode:
+    build:
+      context: .
+      dockerfile: Dockerfile.namenode
+    ports:
+      - "5050:5050"
+    environment:
+      - NAMENODE_HOST=0.0.0.0
+      - NAMENODE_PORT=5050
+      - FLASK_ENV=production
+    volumes:
+      - ./data:/app/data
+      - namenode_metadata:/app/namenode
+    networks:
+      - hdfs-network
+    restart: unless-stopped
+
+  datanode1:
+    build:
+      context: .
+      dockerfile: Dockerfile.datanode
+    ports:
+      - "5001:5001"
+    environment:
+      - DATANODE_PORT=5001
+      - DATANODE_ID=datanode1
+      - NAMENODE_HOST=namenode
+      - NAMENODE_PORT=5050
+    volumes:
+      - datanode1_data:/app/data
+    networks:
+      - hdfs-network
+    depends_on:
+      - namenode
+    restart: unless-stopped
+
+  datanode2:
+    build:
+      context: .
+      dockerfile: Dockerfile.datanode
+    ports:
+      - "5002:5002"
+    environment:
+      - DATANODE_PORT=5002
+      - DATANODE_ID=datanode2
+      - NAMENODE_HOST=namenode
+      - NAMENODE_PORT=5050
+    volumes:
+      - datanode2_data:/app/data
+    networks:
+      - hdfs-network
+    depends_on:
+      - namenode
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./hdfs-frontend
+      dockerfile: Dockerfile
+    ports:
+      - "5173:5173"
+    environment:
+      - VITE_API_BASE_URL=http://localhost:5050/api/v1
+    networks:
+      - hdfs-network
+    depends_on:
+      - namenode
+    restart: unless-stopped
+
+volumes:
+  namenode_metadata:
+  datanode1_data:
+  datanode2_data:
+
+networks:
+  hdfs-network:
+    driver: bridge
