@@ -1,6 +1,5 @@
 # HDFS File System - Distributed File Storage System
 
-[![CI/CD Pipeline](https://github.com/mandarmacharde/hdfs-file-system/workflows/CI/CD%20Pipeline/badge.svg)](https://github.com/mandarmacharde/hdfs-file-system/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![React 18](https://img.shields.io/badge/React-18-blue.svg)](https://reactjs.org/)
